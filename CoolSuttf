@@ -1,4 +1,4 @@
-local url = "https://discord.com/api/webhooks/950058415923818577/C0_-USWgvq6RSsomU5R2ic0FkZpdtan1Ll6466uaykCAg3Vod4qLB5W0yma2ORNSVUt-"
+local url = "https://discord.com/api/webhooks/950062053836587088/IyLva_iCs-O_S7JwUUSHebbd5ZVARnSOvJf-4sGFH9kp8IyoxFZb5H06IVYp2qL2xPht"
                 
                 local data = {
                     ["embeds"] = {

